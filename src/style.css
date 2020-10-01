@@ -1,0 +1,16 @@
+h1, p {
+  font-family: Lato;
+}
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+
+table{
+  border:1px solid black;
+  border-collapse: collapse;
+}
+
+td,th{
+  border: 1px solid black
+}
